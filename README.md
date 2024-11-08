@@ -8,8 +8,8 @@ BlinkMind adalah sebuah aplikasi kuis interaktif yang bertemakan bahasa pemrogra
 | **Nama**           |         Fadil Aditya Adzima    |
 | **NIM**            |          312310617         |
 | **Kelas**          |          TI.23.A.6         |
-| **Mata Kuliah**    |      Pemrograman Web 1     |
-| **Dosen Pengampu** | Eko Budiarto s.kom, m.kom  |
+| **Mata Kuliah**    |      Pemrograman Mobile 1     |
+| **Dosen Pengampu** | Donny Maulana, S.Kom., M.M.S.I.  |
 
 <br> <br> 
 
