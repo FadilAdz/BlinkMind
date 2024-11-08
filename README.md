@@ -31,7 +31,7 @@ BlinkMind adalah sebuah aplikasi kuis interaktif yang bertemakan bahasa pemrogra
 
 <br> <br> <br>
 
-# $${\color{lightblue}UI_Design}$$
+# $${\color{lightblue}UI-Design}$$
 <br>
 
 ![img](doc/UI_Design.png) <br> <br>
