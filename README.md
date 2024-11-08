@@ -94,6 +94,48 @@ Secara keseluruhan, fitur-fitur pada aplikasi BlinkMind dirancang untuk memberik
 <br> <br> <br>
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# $${\color{lightblue}Dokumentasi-Hasil-Implementasi}$$
+
+## $${\color{lightblue}Tampilan-SplashScreen}$$
+<br>
+
+![img](doc/SplashScreen.png) <br> <br>
+
+
+<br> <br> <br>
+
+## $${\color{lightblue}Tampilan-Home}$$
+<br>
+
+![img](doc/HomePage.png) <br> <br>
+
+
+<br> <br> <br>
+
+## $${\color{lightblue}Tampilan-Quiz}$$
+<br>
+
+![img](doc/QuizPage.png) <br> <br>
+
+
+<br> <br> <br>
+
+## $${\color{lightblue}Tampilan-SelesaiQuiz}$$
+<br>
+
+![img](doc/EndPage.png) <br> <br>
+
+
+<br> <br> <br>
+
+
+
+
+
+
+
 
 
 
