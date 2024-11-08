@@ -59,9 +59,9 @@ Aplikasi BlinkMind adalah aplikasi kuis interaktif yang dirancang untuk membantu
 Secara keseluruhan, fitur-fitur pada aplikasi BlinkMind dirancang untuk memberikan pengalaman belajar yang menyenangkan, bermanfaat, dan interaktif bagi pengguna yang ingin memperdalam pengetahuan mereka dalam bidang pemrograman.
 
 
-<br> <br>
+<br> <br> <br>
 
-# $${\color{lightblue}SplashScreen}$$
+## $${\color{lightblue}SplashScreen}$$
 <br>
 
 ![img](doc/UI_SplashScreen.png) <br> <br>
@@ -69,7 +69,7 @@ Secara keseluruhan, fitur-fitur pada aplikasi BlinkMind dirancang untuk memberik
 
 <br> <br> <br>
 
-# $${\color{lightblue}HomePage}$$
+## $${\color{lightblue}HomePage}$$
 <br>
 
 ![img](doc/UI_HomePage.png) <br> <br>
@@ -77,7 +77,7 @@ Secara keseluruhan, fitur-fitur pada aplikasi BlinkMind dirancang untuk memberik
 
 <br> <br> <br>
 
-# $${\color{lightblue}QuizPage}$$
+## $${\color{lightblue}QuizPage}$$
 <br>
 
 ![img](doc/UI_QuizPage.png) <br> <br>
@@ -85,7 +85,7 @@ Secara keseluruhan, fitur-fitur pada aplikasi BlinkMind dirancang untuk memberik
 
 <br> <br> <br>
 
-# $${\color{lightblue}EndPage}$$
+## $${\color{lightblue}EndPage}$$
 <br>
 
 ![img](doc/UI_EndPage.png) <br> <br>
