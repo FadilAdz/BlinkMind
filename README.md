@@ -11,11 +11,27 @@ BlinkMind adalah sebuah aplikasi kuis interaktif yang bertemakan bahasa pemrogra
 | **Mata Kuliah**    |      Pemrograman Web 1     |
 | **Dosen Pengampu** | Eko Budiarto s.kom, m.kom  |
 
+<br> <br> 
+
+
+
+# $${\color{lightblue}StoryBoard}$$
+<br>
+
+![img](doc/StoryBoard.png) <br> <br>
+
+
 <br> <br> <br>
 
+# $${\color{lightblue}Mockup}$$
+<br>
+
+![img](doc/Mockup.png) <br> <br>
 
 
-# $${\color{lightblue}UI-Design}$$
+<br> <br> <br>
+
+# $${\color{lightblue}UI_Design}$$
 <br>
 
 ![img](doc/UI_Design.png) <br> <br>
@@ -23,44 +39,34 @@ BlinkMind adalah sebuah aplikasi kuis interaktif yang bertemakan bahasa pemrogra
 
 <br> <br> <br>
 
-# $${\color{lightblue}About-Page}$$
+# $${\color{lightblue}SplashScreen}$$
 <br>
 
-![img](doc/About.png) <br> <br>
+![img](doc/UI_SplashScreen.png) <br> <br>
 
 
 <br> <br> <br>
 
-# $${\color{lightblue}Contact-Page}$$
+# $${\color{lightblue}HomePage}$$
 <br>
 
-![img](doc/Contact.png) <br> <br>
+![img](doc/UI_HomePage.png) <br> <br>
 
-Dengan bagian contact page yang memungkinkan pengunjung untuk terhubung dengan pemilik. Pada halaman "Contact Me," terdapat berbagai ikon media sosial dan platform komunikasi yang digunakan untuk menghubungi pemilik, yaitu : <br>
-
-<b>GitHub</b> : Untuk menampilkan proyek dan kontribusi coding. <br>
-<b>Instagram</b> : Untuk berbagi konten visual atau update pribadi. <br>
-<b>Discord</b> : Untuk komunikasi berbasis komunitas atau obrolan langsung. <br>
-<b>Email</b> : Untuk keperluan komunikasi profesional dan langsung. <br
-<b>LinkedIn</b> : Untuk koneksi profesional dan jaringan karier. <br>
-
-Desain halaman ini sederhana namun efektif, dengan ikon-ikon kontak yang jelas terlihat di tengah layar. Bagian bawah halaman memiliki grafik poligon, memberi kesan estetis yang konsisten dengan tema situs. Footer menyertakan tulisan "Pemrograman Web 1 @ 2024" yang menunjukkan bahwa situs ini mungkin adalah proyek dari mata kuliah Pemrograman Web.
 
 <br> <br> <br>
 
-# $${\color{lightblue}Database-Page}$$
+# $${\color{lightblue}QuizPage}$$
 <br>
 
-![img](doc/Database.png)
+![img](doc/UI_QuizPage.png) <br> <br>
+
+
 <br> <br> <br>
 
-# $${\color{lightblue}Form-Page}$$
+# $${\color{lightblue}EndPage}$$
 <br>
 
-![img](doc/Form.png)
+![img](doc/UI_EndPage.png) <br> <br>
+
+
 <br> <br> <br>
-
-# $${\color{lightblue}Error-Page}$$
-<br>
-
-![img](doc/Error.png)
